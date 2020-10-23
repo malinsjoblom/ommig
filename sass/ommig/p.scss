@@ -1,0 +1,61 @@
+p {
+    position: relative;
+    left: 85px;
+    background-color: thistle;
+    font-size: 18px;
+    border-color: black;
+    border-style: solid;
+    border-width: thick;
+    padding: 20px;
+    overflow: hidden;
+    width: 1100px;
+}
+
+.listorna {
+    margin: 20px;
+    display: inline-block;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    list-style: square;
+}
+
+.lista {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    width: 150px;
+    border-left: 2px solid whitesmoke;
+    border-right: 2px solid whitesmoke;
+    padding: 3px;
+}
+
+.lista2{
+    width: 300px;
+    border-left: 2px solid whitesmoke;
+    border-right: 2px solid whitesmoke;
+    padding: 3px;
+
+}
+
+.lista3 {
+    width: 200px;
+    border-left: 2px solid whitesmoke;
+    border-right: 2px solid whitesmoke;
+    padding: 3px;
+}
+
+
+h3 {  
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  }
+  
+#trelistor {
+    margin-left: 50px;
+    margin-top: 70px;
+    width: 430px;
+}
